@@ -10,4 +10,31 @@
 <img src="https://github.com/QinRui-k/GCN-CIS/assets/139854014/4e46819a-3274-4548-aca7-2f28ac8159a4">
 Architecture of GCN-CIS. The network incorporates a multi-scale input strategy to capture details across various resolutions. It utilizes a series of encoders for extracting features at multiple levels of abstraction. Subsequently, the deep feature maps undergo refinement through the Prior Boundary Attention Module (PBAM), which significantly enhances edge delineation. These refined features are then integrated into the decoder, thereby improving the representation of the optic boundaries. Notably, the final segmentation map is crucial for calculating the signed distance and assessing the ISNT metrics of the image, with an integrated loss function that sharpens the segmentation accuracy.
 
+## 👉 Evaluation
+<p align="center">  
+Quantitative Results 
+</p>   
+<img src="https://github.com/QinRui-k/GCN-CIS/assets/139854014/9a6aab92-2551-4e44-8bff-6a4fb25d2385">
+
+<p align="center">  
+Visulization Results
+</p>   
+<img src="https://github.com/QinRui-k/GCN-CIS/files/15232316/Visualization.pdf">
+
+## 👉 Train
+```
+cd ./GCN-CIS
+train.py
+```
+
+## 👉 Test
+```
+cd ./GCN-CIS
+test.py
+```
+
+## 🎥 Demo
 https://github.com/QinRui-k/GCN-CIS/assets/139854014/ae24c9a0-af45-49ce-89a2-79f4228798c3
+
+## 🤝 Acknowledgement
+* We thank all medical workers and dataset owners for making public datasets available to the community.
