@@ -39,3 +39,5 @@ https://github.com/QinRui-k/GCN-CIS/assets/139854014/ae24c9a0-af45-49ce-89a2-79f
 
 ## 🤝 Acknowledgement
 * We thank all medical workers and dataset owners for making public datasets available to the community.
+* We thank public dataset owner Drishti-GS[https://www.kaggle.com/datasets/lokeshsaipureddi/drishtigs-retina-dataset-for-onh-segmentation], REFUGE[https://refuge.grand-challenge.org
+], ORIGA[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5626137]
