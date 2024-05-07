@@ -1,6 +1,5 @@
 # Geometric Constraint Network for Clinically Interpretable Optic Cup and Disc Segmentation (GCN-CIS)
 
-Geometric Constraint Network for Clinically Interpretable Optic Cup and Disc Segmentation
 
 ## ✈️ Highlights
 🔥 A novel segmentation network named GCN-CIS, which is enhanced with a Prior Boundary Attention Module.  
