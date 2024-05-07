@@ -14,7 +14,7 @@ Architecture of GCN-CIS. The network incorporates a multi-scale input strategy t
 <p align="center">  
 Quantitative Results 
 </p>   
-<img src="https://github.com/QinRui-k/GCN-CIS/assets/139854014/9a6aab92-2551-4e44-8bff-6a4fb25d2385">
+<img src="https://github.com/QinRui-k/GCN-CIS/assets/139854014/764d7de2-c741-4f5a-9f45-52cb7446ab71">
 
 <p align="center">  
 Visulization Results
