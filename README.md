@@ -36,7 +36,8 @@ test.py
 ```
 
 ## 🎥 Demo
-https://github.com/QinRui-k/GCN-CIS/assets/139854014/ae24c9a0-af45-49ce-89a2-79f4228798c3
+https://github.com/QinRui-k/GCN-CIS/assets/139854014/eb36b117-ba0d-4068-a0bf-5cae07e52ed8
+
 
 ## 🤝 Acknowledgement
 * We thank all medical workers and dataset owners for making public datasets available to the community.
