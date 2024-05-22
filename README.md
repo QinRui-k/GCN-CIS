@@ -36,7 +36,7 @@ test.py
 ```
 
 ## 🎥 Demo
-🔥 Website [RetinalSeg Expert](https://glaucoma-assistant.com/cdr/).
+🔥 Website [RetinalSeg Expert](https://glaucoma-assistant.com/cdr/).  
 https://github.com/QinRui-k/GCN-CIS/assets/139854014/eb36b117-ba0d-4068-a0bf-5cae07e52ed8
 
 
